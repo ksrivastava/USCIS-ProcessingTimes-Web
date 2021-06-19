@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/USCIS-ProcessingTimes-Web/config/applicationhost.config
+/.vs/slnx.sqlite
+/.vs/USCIS-ProcessingTimes-Web/v16/.suo
